@@ -9,6 +9,10 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Mm]emoryCaptures/
+/Class6_embodiment/[Ll]ibrary/
+/Class6_embodiment/[Tt]emp/
+/Class6_embodiment/[Oo]bj/
+/Class6_embodiment/[Ll]ogs/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
